@@ -21,8 +21,8 @@ module.exports = {
       url: 'https://www.linkedin.com/in/AnimeshRy',
     },
     {
-      name: 'Npm',
-      url: 'https://www.npmjs.com/package/animesh/',
+      name: 'Blog',
+      url: 'https://animeshry.github.io/blog/',
     },
     {
       name: 'Instagram',
