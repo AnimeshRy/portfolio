@@ -8,7 +8,7 @@ tech:
   - CSS
   - JavaScript
   - Design
-showInProjects: true
+showInProjects: false
 ---
 
 Bunch of website designs made with HTML, CSS and JS to fork and reuse again.

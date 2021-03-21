@@ -7,7 +7,7 @@ url: 'https://www.fiverr.com/'
 location: 'remote'
 ---
 
-- Designed and Developed static websites for small business owner's
-- Designed Logo's for few clients
-- Used various WP plugins (Woocommerce, MonsterInsights) for websites
+- Designed and Developed static websites using wordpress CMS
+- Designed Logo's and other static assets for clients
+- Integrated various WP plugins like Woocommerce, MonsterInsights and more
 - Worked with more than a dozen clients from Upwork and Fiverr
