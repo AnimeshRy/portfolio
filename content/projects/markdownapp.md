@@ -6,7 +6,7 @@ tech:
   - Django 3
   - Python
   - markdown2
-showInProjects: true
+showInProjects: false
 ---
 
 Simple MarkDown App to add entries to filestorage using markdown2 library.

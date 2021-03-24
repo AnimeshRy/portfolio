@@ -6,7 +6,7 @@ external: ''
 tech:
   - Python
   - Terminal
-showInProjects: true
+showInProjects: false
 ---
 
 Fantasy Saga is a terminal game based on the evolution of Final Fantasy Characters. The user will play against Imp, Magus and Imp and can also deal damage to them with multiple ways. 
