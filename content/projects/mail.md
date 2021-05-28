@@ -6,7 +6,7 @@ tech:
   - Django 3
   - Single-Page-App
   - Fetch API
-showInProjects: true
+showInProjects: false
 ---
 
 Send Fake emails stored on a database to people present in a local area network.

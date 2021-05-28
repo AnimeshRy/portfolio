@@ -6,7 +6,7 @@ tech:
   - Django
   - ToDo
   - Python
-showInProjects: true
+showInProjects: false
 ---
 
 Dead Simple Django To Do App build with Django.
