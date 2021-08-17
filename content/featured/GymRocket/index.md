@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '1'
 title: 'GymRocket'
 cover: './gymrocket.png'
 github: 'https://github.com/AnimeshRy/gymrocket'

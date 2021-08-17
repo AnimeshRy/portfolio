@@ -2,12 +2,13 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
+- Django
+- MERN
 - JavaScript (ES6+)
 - Python
-- Bash 
+- Bash
 - HTML & (S)CSS
-- Django 
-- React
+- TypeScript
 ---
 
 Hello! I'm Animesh, a software engineer based in Delhi, India.
