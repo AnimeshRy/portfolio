@@ -13,9 +13,7 @@ tech:
 showInProjects: true
 ---
 
-Open Source Student Portal for Small Institutions!
-Uses multiple user authentication and MailGun API for email approvel.
-Contain Custom Admin Panel with seperate Staff Access
-Seperate Accounts for teacher and students
-Tested it for 100+ users with AWS and heroku version.
-
+Open Source Student Portal for small scale institutions, utilizes multiple user authenticaton and
+MailGun API for verification. Also contains a custom admin panel with seperate access for staff and superadmin.
+Features like quizzes, report generation etc are left for you to explore
+Tested it with 100+ users while hosted on heroku

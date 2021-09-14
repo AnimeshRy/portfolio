@@ -12,5 +12,5 @@ tech:
 showInProjects: true
 ---
 
-InstagramClone built with ReactJS and Firebase and deployed on [Vercel](https://www.eragram.vercel.app/).
-Uses Fireabase for authentication and storage.
+Instagram Clone built with ReactJS and Firebase and deployed on [Vercel](https://www.eragram.vercel.app/).
+Uses Fireabase for authentication and storage and tailwind for all the styling needs
