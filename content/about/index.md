@@ -2,7 +2,7 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-- Django, DRF
+- Django (DRF)
 - MERN
 - JavaScript (ES6+)
 - Python
