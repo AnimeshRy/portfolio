@@ -1,5 +1,5 @@
 ---
-title: 'Connect With me as a true Web Developer'
+title: 'Connect with me as a true Web Developer'
 buttonText: 'npx animesh'
 ---
 
