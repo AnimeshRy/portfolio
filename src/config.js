@@ -33,7 +33,7 @@ module.exports = {
       url: 'https://twitter.com/AnimeshRy',
     },
   ],
-  lastUpdated: '15-December-2021',
+  lastUpdated: '10-January-2023',
 
   navLinks: [
     {
