@@ -1,5 +1,5 @@
 ---
-date: '2021-12-30'
+date: '2022-4-8'
 title: 'Software Engineer 2'
 company: 'Meeti Infotech'
 range: 'Dec 2021 - Present'
