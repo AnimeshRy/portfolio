@@ -1,6 +1,6 @@
 ---
 date: '2022-4-8'
-title: 'Software Engineer 2'
+title: 'Software Engineer'
 company: 'Meeti Infotech'
 range: 'Dec 2021 - Present'
 url: 'https://www.meetri.in/'
