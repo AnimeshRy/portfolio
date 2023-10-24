@@ -3,13 +3,12 @@
 </div>
 
 <h1 align="center">
-  iamanimesh.tech
+  iamanimesh.info
 </h1>
 <p align="center">
   This is my personal website here i update lots of things which can not be summed up in my resume
-  visit <a href="https://iamanimesh.tech" target="_blank">iamanimesh.tech</a>
+  visit <a href="https://iamanimesh.info" target="_blank">iamanimesh.info</a>
 </p>
-
 
 ![demo](src/images/og.png)
 
