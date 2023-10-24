@@ -69,7 +69,6 @@ const Footer = () => {
 
   useEffect(() => {
     if (process.env.NODE_ENV !== 'production') {
-
     }
   }, []);
 
@@ -78,17 +77,17 @@ const Footer = () => {
       <StyledSocial>
         <StyledSocialList>
           {socialMedia &&
-          socialMedia.map(({ name, url }, i) => (
-            <li key={i}>
-              <StyledSocialLink
-                href={url}
-                target="_blank"
-                rel="nofollow noopener noreferrer"
-                aria-label={name}>
-                <FormattedIcon name={name}/>
-              </StyledSocialLink>
-            </li>
-          ))}
+            socialMedia.map(({ name, url }, i) => (
+              <li key={i}>
+                <StyledSocialLink
+                  href={url}
+                  target="_blank"
+                  rel="nofollow noopener noreferrer"
+                  aria-label={name}>
+                  <FormattedIcon name={name} />
+                </StyledSocialLink>
+              </li>
+            ))}
         </StyledSocialList>
       </StyledSocial>
       <StyledMetadata tabindex="-1">
@@ -97,14 +96,12 @@ const Footer = () => {
           target="_blank"
           rel="nofollow noopener noreferrer">
           <div>Designed &amp; Built by Brittany Chiang |</div>
-
         </StyledGitHubLink>
         <StyledGitHubLink
           href="https://github.com/AnimeshRy"
           target="_blank"
           rel="nofollow noopener noreferrer">
-          <div>| Customized By Animesh Pratap Singh</div>
-
+          <div>Customized By Animesh Pratap Singh</div>
         </StyledGitHubLink>
         <StyledGitHubInfo>
           <span>

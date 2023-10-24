@@ -4,11 +4,11 @@ module.exports = {
     'Animesh Singh is a software engineer based in Delhi, India who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
   siteKeywords:
     'Animesh Singh, Animesh, singh, AnimeshRy, software engineer, back-end engineer, web developer, full-stack developer, javascript, python, django, developer, era5tone, indian',
-  siteUrl: 'https://iamanimesh.tech',
+  siteUrl: 'https://iamanimesh.info',
   siteLanguage: 'en_US',
   name: 'Animesh Pratap Singh',
   location: 'India',
-  email: 'contact@iamanimesh.tech',
+  email: 'hello@iamanimesh.info',
   github: 'https://github.com/AnimeshRy',
   twitterHandle: '@AnimeshRy',
   socialMedia: [
@@ -33,7 +33,7 @@ module.exports = {
       url: 'https://twitter.com/AnimeshRy',
     },
   ],
-  lastUpdated: '10-January-2023',
+  lastUpdated: '24-October-2023',
 
   navLinks: [
     {
