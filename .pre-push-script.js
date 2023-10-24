@@ -1,8 +1,8 @@
 'use strict';
 
 const replace = require('replace-in-file');
-var moment = require('moment'); // require
-var d = moment().format('DD-MMM-YYYY');
+const moment = require('moment'); // require
+const d = moment().format('DD-MMM-YYYY');
 
 const options = {
   files: './src/config.js',
@@ -10,8 +10,7 @@ const options = {
   to: `${d}`,
 };
 try {
-  const results = replace.sync(options);
-  console.log('Replacement results:', results);
+  replace.sync(options);
 } catch (error) {
   console.error('Error occurred:', error);
   process.exit(1);
