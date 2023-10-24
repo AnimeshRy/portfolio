@@ -101,7 +101,7 @@ const Footer = () => {
           href="https://github.com/AnimeshRy"
           target="_blank"
           rel="nofollow noopener noreferrer">
-          <div>Customized By Animesh Pratap Singh</div>
+          <div>| Customized By Animesh Pratap Singh</div>
         </StyledGitHubLink>
         <StyledGitHubInfo>
           <span>
